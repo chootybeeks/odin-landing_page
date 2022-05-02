@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    font-family: "roboto", sans-serif;
+    
+}
+
+.header {
+    display: flex;
+    background-color: #1f2937;
+    padding: 0 12rem;
+    align-items: center;
+}
+
+h1 {
+    color: #fff;
+}
+
+ul {
+    display: flex;
+    margin-left: auto;
+    list-style: none; 
+    gap: 1.2rem;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
