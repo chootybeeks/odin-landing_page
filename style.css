@@ -30,3 +30,16 @@ a {
     text-decoration: none;
     color: #fff;
 }
+
+.subheader {
+    display: flex;
+    flex-flow: row nowrap;
+    padding: 0 12rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    display: flex;
+    flex-flow: column nowrap;
+}
