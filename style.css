@@ -75,3 +75,10 @@ img {
    height: 300px;
    width: 800px;
 }
+
+h3 {
+    text-align: center;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
