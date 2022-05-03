@@ -131,5 +131,44 @@ h3 {
     text-align: right;
     padding-right: 40rem;
 }
+
+.call-to-action {
+    display: flex;
+    flex-flow: row nowrap;
+    padding: 6rem 12rem;
+    align-items: center;
+    
+}
+
+.color-container {
+    display: flex;
+    flex-flow: row nowrap;
+    background-color: #3882f6;
+    align-items: center;
+    padding: 2rem 12rem;
+    border-radius: 8px;
+    width: 80rem;
+    margin: 0 auto;
+    gap: 8rem;
+    justify-content: space-between;
+}
+
+h4 {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.call p {
+    color: #f9faf8;
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.call-button button {
+    border: solid;
+    border-color: #f9faf8;
+}
     
 
