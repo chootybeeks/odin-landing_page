@@ -90,6 +90,7 @@ h3 {
     flex-flow: row nowrap;
     margin: 0;
     gap: 4rem;
+    padding-bottom: 8rem;
 }
 
 .info-section img {
@@ -107,4 +108,28 @@ h3 {
     font-size: 18px;
     margin: 1rem auto;
 }
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 10rem 12rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    width: 848px;
+    margin: 0 auto;
+}
+
+.signature {
+    font-size: 24px;
+    text-align: right;
+    padding-right: 40rem;
+}
+    
 
