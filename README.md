@@ -26,8 +26,8 @@ Overall, this was a fun and challenging project. It took me around 4-6 hours to 
 
 
 IMAGE ATTRIBUTIONS
--Image 1: Photo by Kari Shea on Unsplash
--Image 2: Photo by Akindele Ibukun on Unsplash
--Image 3: Photo by Joshua Oyebanji on Unsplash
--Image 4: Photo by mehrab zehedbeigi on Unspash
--Image 5: Photo by Samuel Girven on Unsplash
+Image 1: Photo by Kari Shea on Unsplash
+Image 2: Photo by Akindele Ibukun on Unsplash
+Image 3: Photo by Joshua Oyebanji on Unsplash
+Image 4: Photo by mehrab zehedbeigi on Unspash
+Image 5: Photo by Samuel Girven on Unsplash
