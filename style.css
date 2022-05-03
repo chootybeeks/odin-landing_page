@@ -82,3 +82,29 @@ h3 {
     font-size: 36px;
     font-weight: bolder;
 }
+
+.info-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row nowrap;
+    margin: 0;
+    gap: 4rem;
+}
+
+.info-section img {
+    height: 200px;
+    width: 200px;
+    border-radius: 2rem;
+    border: solid;
+    border-color: #3882f6;
+    border-width: .4rem;
+}
+
+.text {
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+    margin: 1rem auto;
+}
+
