@@ -5,3 +5,19 @@ An exciting project to create a cool looking landing page! This is a big project
 pieces. Currently, I am figuring out how to code the .html document for the subheader. I will update when necessary.
 
 The subheader was pretty straightforward, though I ran into a bit of an issue when trying to style the button. The Chrome inspector kept saying 'invalid properties' for the font-size and color, and I tried to troubleshoot what I was doing wrong but I could not figure it out. I ended up just restarting VSCode and Chrome and I was no longer getting the 'invalid properties' warning. I did not change my code at all so maybe it was just one of those things.
+
+
+
+
+
+
+
+
+
+
+
+IMAGE ATTRIBUTIONS
+-Image 1: Photo by Akindele Ibukun on Unsplash
+-Image 2: Photo by Joshua Oyebanji on Unsplash
+-Image 3: Photo by mehrab zehedbeigi on Unspash
+-Image 4: Photo by Samuel Girven on Unsplash
